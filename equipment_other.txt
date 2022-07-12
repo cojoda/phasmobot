@@ -1,0 +1,9 @@
+sound sensor
+thermometer
+parabolic mic
+crucifix
+smudge
+sanity
+salt
+motion
+candle
